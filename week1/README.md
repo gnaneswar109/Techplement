@@ -7,3 +7,4 @@ JavaScript handles the dynamic content generation. Upon loading, it fetches a ra
 
 Additionally, a button labeled "New Quote" allows users to fetch and display a new random quote interactively, providing a fresh experience with each click. This code demonstrates a simple yet effective way to integrate dynamic content into a webpage, offering users a daily dose of inspiration or reflection.
 
+![Alt Text](bg.jpg)
